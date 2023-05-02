@@ -8,7 +8,6 @@
   - [WireFrame](#wireframe)
   - [Technologies](#technologies)
   - [Installation](#installation)
-  - [Results](#results)
   - [Reach-us](#reach-us)
   - [GitRepo](#gitrepo)
   - [App-Link](#app-link)
@@ -154,11 +153,6 @@ Then the platform should confirm that the order will be ready within 15 minutes 
 - Run npm i in terminal to install packages
 - Running npm run develop will give you access to the Apollo Server (Graph QL) and the localhost webpage
 
-## Results:
-
-![TO-DO........](./Assets/)
-
-![TO-DO........](./Assets/)
 
 ## Reach-Us
 
@@ -179,4 +173,4 @@ https://github.com/SPloganathan/witches-brew-and-eats
 
 ## App-Link
 
-TO-DO.......
+https://witches-brew-and-eats.herokuapp.com/
