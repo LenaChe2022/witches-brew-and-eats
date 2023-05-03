@@ -60,8 +60,8 @@ Then I should be able to view a list of free recipes with their ingredients and 
 
 Scenario 7: Order Ready Within 15 Minutes
 Given I have added items to my cart and proceeded to checkout
-When I select a pickup time
-Then the platform should confirm that the order will be ready within 15 minutes of the selected pickup time
+When I appear at payment page and input payment information
+Then the platform should confirm that the order will be ready within 15 minutes.
 ```
 ## Database Structure
 
